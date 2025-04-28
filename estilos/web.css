@@ -1,0 +1,20 @@
+body {
+   background-image: linear-gradient(rgba(238, 233, 221, 0.60), rgba(238, 233, 221, 0.60)),/*le indicamos la opacidad a la imagen de fondo con un color base*/
+   url('/Imagenes/tacofondo.jpg');/*inserta la imagen de fondo en toda la web*/
+   background-repeat: no-repeat; /*evita que la imagen se repita varias veces*/
+   background-position: center;/*centra la imagen en la web*/
+   background-size: cover;/*hace que la imagen ocupe todo el ancho de la web*/
+
+}
+.title1{
+ font-family: "Techno at Dusk", Helvetica, sans-serif;
+}
+
+.title2{
+   font-family: "Lovely Home", Helvetica, sans-serif;
+}
+.title3{
+   font-family: "Aldivaro Stamp", Helvetica, serif;
+   font-style: normal;
+   font
+}
